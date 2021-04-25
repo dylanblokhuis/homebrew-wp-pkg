@@ -1,4 +1,4 @@
-class WP_PKG < Formula
+class WpPkg < Formula
   desc "Simple tool for packaging your WordPress project. Ignores non versioned files like node_modules and .git"
   homepage "https://github.com/dylanblokhuis/wp-pkg"
   url "https://github.com/dylanblokhuis/wp-pkg/releases/download/v0.1.1/wp-pkg-x86_64-apple-darwin.tar.gz"
